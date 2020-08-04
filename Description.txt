@@ -1,3 +1,5 @@
 print("Hello world")
 print(" Sorry Hello World")
 print("test 3rd line")
+for (i=3)
+print i
